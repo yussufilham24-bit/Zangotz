@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#f97316"/>
+  <circle cx="256" cy="256" r="187" fill="#ffffff"/>
+
+  <path d="M139 299 C139 243 163 193 208 169 C242 151 282 151 316 171 C359 197 382 245 373 299"
+        fill="none"
+        stroke="#0f766e"
+        stroke-width="32"
+        stroke-linecap="round"/>
+
+  <circle cx="181" cy="310" r="27" fill="#0f766e"/>
+  <circle cx="331" cy="310" r="27" fill="#0f766e"/>
+
+  <path d="M173 243 C191 209 219 192 256 192 C293 192 321 209 339 243"
+        fill="none"
+        stroke="#f97316"
+        stroke-width="21"
+        stroke-linecap="round"/>
+
+  <text x="256"
+        y="405"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="62"
+        font-weight="900"
+        fill="#0f766e">ZANGO</text>
+</svg>
